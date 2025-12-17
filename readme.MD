@@ -2,6 +2,7 @@
 
 ## A Demonstration of Modular Programming in C
 
+🌐 [Live Demo](https://hall-dining-management.vercel.app/) · 🗄️ [Server Repo](https://github.com/With-ALIF/hall-dining-management) · 💻 [C Project](https://github.com/With-ALIF/mess_system_C)
 ---
 
 ## Overview

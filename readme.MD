@@ -115,7 +115,7 @@ Dinner: 30
 <h2>📌 How the System Works</h2>
 👨‍🎓 Student Login using roll number
 
-🧑‍💼 Admin Login (username: admin, password: 1234)
+🧑‍💼 Admin Login (username: `alif`, password: `12345`)
 
 Students can:
 

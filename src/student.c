@@ -16,9 +16,16 @@ int find_student_index(char roll[]) {
 void register_student() {
     Student s;
 
+    printf("Enter Roll No: ");
     scanf(" %19s", s.roll_no);
+
+    printf("Enter Name: ");
     scanf(" %49s", s.name);
+
+    printf("Enter Room No: ");
     scanf("%d", &s.room);
+
+    printf("Enter Initial Balance: ");
     scanf("%lf", &s.balance);
 
     s.log_count = 0;
